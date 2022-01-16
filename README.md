@@ -1,2 +1,2 @@
 # odin-recipes
-Live: jasvirboparoy.github.io/odin-recipes
+Live: jasvirboparoy.github.io/recipes-website
